@@ -1,0 +1,32 @@
+.headerOptions {
+    color: blue;
+    padding: 10px;
+}
+.brandLogo {
+    width: 20%;
+    text-align: left;
+}
+
+.optionGroup {
+    width: 80%;
+    padding: 10px;
+}
+
+.optionList {
+    border: none !important;
+}
+
+.optionItem {
+    padding: 10px;
+}
+
+.RElogo {
+    width: 132px;
+    padding-left: 38px;
+    margin-top: -10px;
+}
+
+.headerHr {
+    margin-top: -15px;
+}
+  
