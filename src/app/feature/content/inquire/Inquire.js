@@ -1,12 +1,12 @@
 import React from 'react';
-import './ContentHome.css';
+import './Inquire.css';
 
 
-export default class ContentHome extends React.Component {
+export default class Inquire extends React.Component {
     render() {
         return (
             <div>
-                Hello Home
+                Hello Inquire
             </div>
         );
     }

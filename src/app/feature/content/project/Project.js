@@ -1,12 +1,12 @@
 import React from 'react';
-import './ContentHome.css';
+import './Project.css';
 
 
-export default class ContentHome extends React.Component {
+export default class Project extends React.Component {
     render() {
         return (
             <div>
-                Hello Home
+                Hello Project
             </div>
         );
     }

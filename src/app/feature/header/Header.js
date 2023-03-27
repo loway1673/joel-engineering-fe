@@ -1,7 +1,6 @@
 import React from 'react';
 import './Header.css';
 import ReLogo from '../../../assets/images/re-logo-official.png';
-import Dashboard from '../../../dashboard/Dashboard';
 
 export default class Header extends React.Component {
     render() {
@@ -20,8 +19,8 @@ export default class Header extends React.Component {
                                 </a>
                             </li>
                             <li class="optionItem nav-item">
-                                <a href="/projects">
-                                Projects
+                                <a href="/project">
+                                Project
                                 </a>
                             </li>
                             <li class="optionItem nav-item">
@@ -39,11 +38,6 @@ export default class Header extends React.Component {
                 </div>
 
                 <hr class="headerHr" />
-                {/* <Switch>
-                    <Route exact path='/'>
-                        <Dashboard />
-                    </Route>
-                </Switch> */}
             </div>
         );
     }
