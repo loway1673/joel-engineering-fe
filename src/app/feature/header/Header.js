@@ -20,7 +20,7 @@ export default class Header extends React.Component {
                             </li>
                             <li class="optionItem nav-item">
                                 <a href="/project">
-                                Project
+                                Projects
                                 </a>
                             </li>
                             <li class="optionItem nav-item">

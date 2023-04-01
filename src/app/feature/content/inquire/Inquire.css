@@ -1,0 +1,42 @@
+.inquireStatment {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.card-img-top {
+    background-color: #f0f0f0;
+}
+
+.emailForm {
+    text-align: left;
+}
+
+.engineerName {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.contactDetailsBlock {
+    margin-top: 10px;
+}
+
+.contactDetailsStatement {
+    text-align: left;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.contactDetails {
+    text-align: left;
+}
+
+.contactEmail {
+    text-align: left;
+}
+
+#message {
+    height: 304px;
+}
